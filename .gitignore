@@ -1,2 +1,9 @@
-.env
+*.env
 *.json
+*.log
+*.txt
+*.zip
+*.csv
+*.xlsx
+*.pdf
+*.DS_Store
