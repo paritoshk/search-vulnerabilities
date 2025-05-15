@@ -1,6 +1,5 @@
 # CVE Search Engine
-
-[![CVE Search Engine](cve-search-app/public/placholder.png)](https://github.com/YOUR_USERNAME/cve-search-app)
+![CVE Search Engine](cve-search-app/public/placeholder.png){width=100 height=100}
 
 An AI-powered CVE (Common Vulnerabilities and Exposures) search application. Users can enter natural language queries to find relevant CVEs from the NVD dataset.
 
