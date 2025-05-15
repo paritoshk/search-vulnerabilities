@@ -1,6 +1,5 @@
 # CVE Search Engine
-[![CVE Search Engine](cve-search-app/public/placholder.png)]{width=100 height=100}
-
+<img src="cve-search-app/public/placeholder.png" width="500" height="300" alt="CVE Search Engine">
 An AI-powered CVE (Common Vulnerabilities and Exposures) search application. Users can enter natural language queries to find relevant CVEs from the NVD dataset.
 
 Built with Next.js, Supabase, Python, Together AI (via Vercel AI SDK), and Tailwind CSS.
